@@ -1749,7 +1749,7 @@ transition-duration: 1s;
     text-decoration: none;
     color: var(--color-white);
 }
-.mobile-navbar-tabs-li{
+.mobile-navbar-tabs-li {
     text-align: center;
     display: flex;
     align-items: center;
@@ -1758,7 +1758,7 @@ transition-duration: 1s;
     font-weight: 600;
     position: relative;
     cursor: pointer;
-    font-family: fira code;
+    font-family: 'Fira Code', monospace; /* Ensure font-family is quoted correctly */
 
     height: 30px;
     width: fit-content;
